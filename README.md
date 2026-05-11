@@ -100,26 +100,28 @@ STAFFFORGE/
 └── README.md
 Safety Philosophy
 
-StaffForge is designed to assist users in preparing high-quality applications.
+StaffForge is designed to help users prepare high-quality staff applications while maintaining authenticity and full user control.
 
-Important Principles:
-
+Important Principles
 StaffForge never submits applications automatically.
-All autofill actions require manual review.
-Users remain fully responsible for submitted content.
-AI suggestions are intended to support authenticity, not replace it.
+All autofill actions require manual review before submission.
+Users remain fully responsible for all content they submit.
+AI-generated suggestions are designed to enhance authenticity, not replace it.
 Use Cases
-Applying for Helper, Moderator, or Admin roles
-Tracking multiple applications across servers
-Preparing for interviews
-Organizing moderation experience and achievements
+
+StaffForge is ideal for:
+
+Applying for Helper, Moderator, and Administrator positions
+Tracking multiple applications across different Minecraft servers
+Preparing for interviews and moderation scenarios
+Organizing moderation experience, skills, and achievements
 Roadmap
- Application templates marketplace
- Advanced analytics dashboard
- AI interview simulator
- Discord integration
- Mobile companion app
- Multi-language support
+ Application Templates Marketplace
+ Advanced Analytics Dashboard
+ AI Interview Simulator
+ Discord Integration
+ Mobile Companion App
+ Multi-language Support
 Author
 
 Tyler Jeffries (Nexi / Nexi_CSN)
