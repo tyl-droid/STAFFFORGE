@@ -191,6 +191,62 @@ This project is licensed under the MIT License.
 
 ---
 
+## ⚠️ Official Distribution Notice
+
+StaffForge is provided **free of charge** by Community Shield Network (CSN) and BLACKGRID.
+
+### 🚫 Do Not Pay for This Software
+
+If anyone attempts to:
+- Sell StaffForge
+- Charge money for access
+- Claim ownership of the software
+- Redistribute modified versions as official releases
+- Scam users using the StaffForge name
+
+please report it immediately.
+
+### 📧 Report Unauthorized Sales
+
+Contact us at:
+
+**CommunityShieldOfficial@gmail.com**
+
+When reporting, please include:
+- Screenshots
+- Seller usernames
+- Website or marketplace links
+- Payment details (if applicable)
+- Any additional evidence
+
+Your reports help us protect the community from scams and unauthorized resellers.
+
+---
+
+## 🛡️ Official Sources
+
+Only download StaffForge from these official sources:
+
+- GitHub: https://github.com/tyl-droid/STAFFFORGE
+- YouTube: https://www.youtube.com/@CommunityShieldOfficial
+
+If you obtained StaffForge from any other source, verify that it is legitimate before using it.
+
+---
+
+## © Copyright Notice
+
+© 2026 Tyler Jeffries (Nexi / Nexi_CSN)  
+Community Shield Network (CSN) / BLACKGRID
+
+All rights reserved.
+
+Unauthorized commercial resale of this software is strictly prohibited without written permission from the author.
+
+---
+
+---
+
 ## Disclaimer
 
 StaffForge is an independent productivity tool and is not affiliated with Mojang, Microsoft, or any Minecraft server network.
