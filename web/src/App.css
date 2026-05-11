@@ -1,0 +1,114 @@
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: #07110d;
+  color: #d8ffe8;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 260px;
+  background: #020806;
+  border-right: 1px solid #1cff8a44;
+  padding: 20px;
+  height: 100vh;
+  position: sticky;
+  top: 0;
+  overflow-y: auto;
+}
+
+.sidebar h1 {
+  color: #1cff8a;
+  font-size: 24px;
+}
+
+.sidebar button {
+  width: 100%;
+  margin-bottom: 8px;
+  padding: 10px;
+  background: #0b1f16;
+  color: #d8ffe8;
+  border: 1px solid #1cff8a55;
+  border-radius: 10px;
+  cursor: pointer;
+  text-align: left;
+}
+
+.sidebar button:hover {
+  background: #123322;
+}
+
+.main {
+  flex: 1;
+  padding: 30px;
+}
+
+h2 {
+  color: #1cff8a;
+}
+
+input, textarea, select {
+  width: 100%;
+  margin-bottom: 12px;
+  padding: 12px;
+  background: #06150f;
+  color: #d8ffe8;
+  border: 1px solid #1cff8a55;
+  border-radius: 10px;
+}
+
+textarea {
+  min-height: 120px;
+}
+
+button {
+  padding: 12px 16px;
+  background: #1cff8a;
+  color: #001008;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  margin: 5px 5px 5px 0;
+}
+
+a {
+  color: #1cff8a;
+  display: inline-block;
+  margin: 8px 10px 8px 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 15px;
+}
+
+.card, .panel, .listItem {
+  background: #06150f;
+  border: 1px solid #1cff8a44;
+  border-radius: 16px;
+  padding: 18px;
+  margin-bottom: 15px;
+  box-shadow: 0 0 18px #00ff8840;
+}
+
+.card h3 {
+  font-size: 32px;
+  color: #1cff8a;
+  margin: 0;
+}
+
+.message {
+  background: #123322;
+  border: 1px solid #1cff8a88;
+  padding: 12px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}

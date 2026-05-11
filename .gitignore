@@ -1,0 +1,10 @@
+node_modules/
+server/node_modules/
+web/node_modules/
+
+dist/
+web/dist/
+
+.env
+server/staffforge.db
+*.log

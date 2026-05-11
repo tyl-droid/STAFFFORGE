@@ -1,0 +1,43 @@
+{
+  "name": "staffforge-desktop",
+  "version": "1.0.0",
+  "description": "Minecraft staff application command center",
+  "main": "desktop/main.js",
+  "author": "Tyler / Nexi_CSN",
+  "license": "MIT",
+  "scripts": {
+    "desktop": "electron .",
+    "desktop:dev": "set STAFFFORGE_DEV=true&& electron .",
+    "build:web": "cd web && npm run build",
+    "dist": "npm run build:web && electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^38.0.0",
+    "electron-builder": "^26.0.12"
+  },
+  "build": {
+    "appId": "com.staffforge.app",
+    "productName": "StaffForge",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "desktop/**/*",
+      "web/dist/**/*",
+      "README.md"
+    ],
+    "win": {
+      "target": "nsis",
+      "artifactName": "StaffForge-Setup-${version}.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
+  },
+  "dependencies": {
+    "electron-updater": "^6.8.3"
+  }
+}
