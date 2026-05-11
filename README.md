@@ -1,79 +1,81 @@
-# ?? StaffForge
+# StaffForge
 
 > The ultimate Minecraft staff application command center.
 
-StaffForge is a professional full-stack platform and desktop application that helps users manage, track, generate, and optimize Minecraft staff applications across any server.
+StaffForge is a professional full-stack platform and desktop application that helps players create, manage, track, and optimize staff applications for Minecraft servers.
+
+Built for aspiring moderators, helpers, and administrators, StaffForge combines application management, AI-assisted answer generation, interview preparation, and productivity tools into one unified dashboard.
 
 ---
 
-## ? Core Features
+## Features
 
 ### Application Management
-- Profile manager
-- Server tracker
-- Application tracker
-- Status monitoring
-- Acceptance analytics
+- Create and manage multiple application profiles
+- Track applications across different Minecraft servers
+- Monitor application statuses (Pending, Accepted, Denied, Interview)
+- View acceptance analytics and historical data
 
-### Automation
+### Automation Tools
 - Universal browser autofill
-- Custom question mapper
-- Answer generator
-- AI personalization
+- Custom question-to-answer mapping
+- AI-assisted personalized answer generation
+- One-click profile switching
 
-### Career Tools
-- Moderation CV export
-- Interview preparation
+### Career Development Tools
+- Moderation résumé/CV builder
+- Interview preparation and practice questions
+- Staff experience tracker
+- Skill and achievement management
 
 ### Integrations
 - Gmail email parsing
-- Automatic email polling
+- Automatic email polling for application updates
 - Google Calendar interview reminders
-- Supabase cloud sync
+- Supabase cloud synchronization
 
-### Desktop
-- Electron desktop app
-- Windows installer
+### Desktop Application
+- Cross-platform Electron desktop app
+- Windows installer support
 - Auto-updater
-- Custom icon support
+- Custom application icon
 
 ### Security
-- Authentication
+- Authentication system
 - Multi-user accounts
-- JWT token system
+- JWT-based session management
+- Secure local storage
 
 ---
 
-## ?? Tech Stack
+## Technology Stack
 
+### Frontend
 - React
 - Vite
+- Tailwind CSS
+
+### Backend
 - Node.js
 - Express
-- SQLite
-- Supabase
-- Google APIs
+
+### Database
+- SQLite (local)
+- Supabase (cloud)
+
+### Integrations
+- Google APIs (Gmail & Calendar)
+
+### Desktop
 - Electron
 - Electron Builder
 
 ---
 
-## ?? Installation
+## Installation
+
+### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/staffforge.git
-cd staffforge
-npm install
-cd web
-npm install
-npm run build
-cd ..
-npm run desktop
-npm run dist
-?? Safety Philosophy
-StaffForge never auto-submits applications.
-All autofill actions require manual review before submission.
-
-?? Author
-Tyler Jeffries (Nexi_CSN)
-Community Shield Network / BLACKGRID
+git clone https://github.com/tyl-droid/STAFFFORGE.git
+cd STAFFFORGE
