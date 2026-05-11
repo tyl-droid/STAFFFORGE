@@ -446,14 +446,48 @@ Report to your national cybercrime or fraud reporting service and local law enfo
 
 ## 🛡️ Privacy Commitment
 
-StaffForge is built with user privacy in mind.
+StaffForge is built with privacy, transparency, and user control as core design principles.
 
-The software:
+### 🔒 Your Data Stays on Your Device
 
-* Does not sell your data.
-* Does not automatically submit applications.
-* Keeps you in control.
-* Encourages safe and transparent use.
+By default, all application data is stored locally on your own device.
+
+This includes:
+
+* Personal profiles
+* Application answers
+* Notes
+* Analytics
+* Email parsing results
+* Calendar reminders
+* Settings
+* Local databases
+
+### ❌ We Do Not Have Access to Your Data
+
+Community Shield Network (CSN), BLACKGRID, and the developer do **not** have access to the information you store in StaffForge.
+
+We cannot:
+
+* View your applications
+* Read your personal details
+* Access your saved answers
+* Monitor your emails
+* Retrieve your local database
+* See your analytics
+* Access your device remotely
+
+If your data is stored locally, it remains under your control.
+
+### ☁️ Optional Cloud Sync
+
+If you choose to enable Supabase cloud synchronization, your data is transmitted only to the cloud services you configure.
+
+Even in cloud mode:
+
+* You control whether sync is enabled.
+* You can disable sync at any time.
+* You ca
 
 ---
 
@@ -511,4 +545,9 @@ All trademarks are the property of their respective owners.
 
 ## © Copyright
 
-© 2026 Tyler Jeffries (Nexi / Nexi
+© 2026 Tyler Jeffries (Nexi / Nexi_CSN)
+Community Shield Network (CSN) / BLACKGRID
+
+All rights reserved.
+
+Unauthorized commercial resale of official StaffForge releases is prohibited without written permission.
