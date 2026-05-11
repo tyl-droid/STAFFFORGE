@@ -79,3 +79,58 @@ Built for aspiring moderators, helpers, and administrators, StaffForge combines 
 ```bash
 git clone https://github.com/tyl-droid/STAFFFORGE.git
 cd STAFFFORGE
+Install Dependencies
+npm install
+cd web
+npm install
+cd ..
+Start Development Mode
+npm run dev
+Launch Desktop App
+npm run desktop
+Build Production Installer
+npm run build
+npm run dist
+Project Structure
+STAFFFORGE/
+├── server/        # Express API and database
+├── web/           # React frontend
+├── electron/      # Electron desktop wrapper
+├── dist/          # Generated installers
+└── README.md
+Safety Philosophy
+
+StaffForge is designed to assist users in preparing high-quality applications.
+
+Important Principles:
+
+StaffForge never submits applications automatically.
+All autofill actions require manual review.
+Users remain fully responsible for submitted content.
+AI suggestions are intended to support authenticity, not replace it.
+Use Cases
+Applying for Helper, Moderator, or Admin roles
+Tracking multiple applications across servers
+Preparing for interviews
+Organizing moderation experience and achievements
+Roadmap
+ Application templates marketplace
+ Advanced analytics dashboard
+ AI interview simulator
+ Discord integration
+ Mobile companion app
+ Multi-language support
+Author
+
+Tyler Jeffries (Nexi / Nexi_CSN)
+Founder of Community Shield Network (CSN) and BLACKGRID
+
+GitHub: https://github.com/tyl-droid
+YouTube: https://www.youtube.com/@CommunityShieldOfficial
+License
+
+This project is licensed under the MIT License.
+
+Disclaimer
+
+StaffForge is an independent productivity tool and is not affiliated with Mojang, Microsoft, or any Minecraft server network.
