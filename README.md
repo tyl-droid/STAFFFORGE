@@ -487,7 +487,34 @@ Even in cloud mode:
 
 * You control whether sync is enabled.
 * You can disable sync at any time.
-* You ca
+* You can delete your synced data.
+* CSN and BLACKGRID do not manually access your data.
+
+### 📄 Proof and Transparency
+
+The source code is publicly available on GitHub.
+
+You are encouraged to:
+
+* Review the code.
+* Audit how data is stored.
+* Verify what network requests are made.
+* Build the application from source yourself.
+
+If the community requests it, we are happy to provide additional documentation demonstrating exactly how data is stored and handled.
+
+### 🛡️ Privacy Summary
+
+StaffForge:
+
+* Does not sell your data.
+* Does not secretly upload your information.
+* Does not auto-submit applications.
+* Does not provide developers with access to your local data.
+* Keeps you in full control.
+* Encourages transparent and ethical software practices.
+
+Your data belongs to you and remains under your control.
 
 ---
 
