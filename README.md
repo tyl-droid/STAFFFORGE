@@ -1,3 +1,4 @@
+````markdown
 # 🛡️ StaffForge
 
 > **The Ultimate Minecraft Staff Application Command Center**
@@ -215,3 +216,422 @@ Sync profiles, applications, and settings securely using Supabase.
 ```bash
 git clone https://github.com/tyl-droid/STAFFFORGE.git
 cd STAFFFORGE
+````
+
+### Install Dependencies
+
+```bash
+npm install
+cd web
+npm install
+cd ..
+```
+
+### Start Development Mode
+
+```bash
+npm run dev
+```
+
+### Launch Desktop Application
+
+```bash
+npm run desktop
+```
+
+### Build Production Installer
+
+```bash
+npm run build
+npm run dist
+```
+
+---
+
+## 🗂️ Project Structure
+
+```text
+STAFFFORGE/
+├── server/        # Express API and local database
+├── web/           # React frontend
+├── electron/      # Electron desktop wrapper
+├── assets/        # Icons and branding assets
+├── dist/          # Generated installers
+├── CHANGELOG.md
+├── LICENSE
+└── README.md
+```
+
+---
+
+## 🎯 Use Cases
+
+StaffForge is ideal for:
+
+* Applying for Helper, Moderator, and Administrator roles.
+* Tracking multiple applications.
+* Organizing moderation history.
+* Preparing for interviews.
+* Managing deadlines and follow-ups.
+* Building professional moderation CVs.
+
+---
+
+## 🛡️ Safety Philosophy
+
+StaffForge is designed to assist users while preserving authenticity and full user control.
+
+### Core Principles
+
+* StaffForge never submits applications automatically.
+* All autofill actions require manual review.
+* Users remain fully responsible for all submitted content.
+* AI suggestions are intended to enhance authenticity.
+* Privacy and transparency are core design priorities.
+
+---
+
+# ⚠️ Official Distribution, Security & Anti-Scam Notice
+
+## 🆓 StaffForge is 100% Free
+
+StaffForge is provided free of charge by:
+
+* **Tyler Jeffries (Nexi / Nexi_CSN)**
+* **Community Shield Network (CSN)**
+* **BLACKGRID**
+
+There are:
+
+* ❌ No subscriptions
+* ❌ No activation keys
+* ❌ No premium versions
+* ❌ No paid unlocks
+* ❌ No hidden fees
+
+If anyone asks you to pay for StaffForge, they are not authorized.
+
+---
+
+## 🚫 Unauthorized Selling Prohibited
+
+No person or organization is permitted to:
+
+* Sell StaffForge.
+* Charge for access.
+* Rebrand it as an official release.
+* Claim ownership.
+* Bundle it with malicious software.
+* Offer fake support contracts.
+
+Unauthorized commercial resale of official StaffForge releases is prohibited without written permission from the author.
+
+---
+
+## 🚨 Common Scam Tactics
+
+Scammers may attempt to:
+
+* Offer a "Pro" or "VIP" version.
+* Sell fake license keys.
+* Claim they are the original developer.
+* Provide malware-infected installers.
+* Use fake websites or Discord servers.
+* Impersonate CSN or BLACKGRID.
+
+---
+
+## 🌐 Official Sources
+
+Only download StaffForge from official sources:
+
+* GitHub: [https://github.com/tyl-droid/STAFFFORGE](https://github.com/tyl-droid/STAFFFORGE)
+* YouTube: [https://www.youtube.com/@CommunityShieldOfficial](https://www.youtube.com/@CommunityShieldOfficial)
+* Ko-fi: [https://ko-fi.com/communityshieldofficial](https://ko-fi.com/communityshieldofficial)
+
+If you downloaded StaffForge from any other source, verify its legitimacy before running it.
+
+---
+
+## 🔐 Security Recommendations
+
+To protect yourself:
+
+* Use a reputable VPN if desired.
+* Scan files with Microsoft Defender, Malwarebytes, or VirusTotal.
+* Verify file checksums if published.
+* Keep your system updated.
+* Avoid modified or unofficial builds.
+
+---
+
+## 📧 Report Unauthorized Sales or Fake Versions
+
+If anyone attempts to sell StaffForge or distribute suspicious versions, contact:
+
+**[CommunityShieldOfficial@gmail.com](mailto:CommunityShieldOfficial@gmail.com)**
+
+Include:
+
+* Screenshots
+* Usernames
+* Marketplace links
+* Payment details
+* Download links
+* Any additional evidence
+
+---
+
+## 🚨 Think You've Been Scammed?
+
+1. Stop communicating with the seller.
+2. Save all evidence.
+3. Scan your device for malware.
+4. Change passwords if you ran suspicious files.
+5. Contact your bank or payment provider.
+6. Report the incident to your local cybercrime authority.
+7. Email us with all evidence.
+
+### 🇬🇧 United Kingdom
+
+* Action Fraud: [https://www.actionfraud.police.uk](https://www.actionfraud.police.uk)
+* NCSC: [https://www.ncsc.gov.uk](https://www.ncsc.gov.uk)
+
+### 🇺🇸 United States
+
+* IC3: [https://www.ic3.gov](https://www.ic3.gov)
+* FTC: [https://reportfraud.ftc.gov](https://reportfraud.ftc.gov)
+
+---
+
+## 🛡️ Privacy Commitment
+
+### 🔒 Your Data Stays on Your Device
+
+By default, all application data is stored locally.
+
+This includes:
+
+* Profiles
+* Application answers
+* Notes
+* Analytics
+* Settings
+* Email parsing results
+* Calendar reminders
+
+### ❌ We Do Not Have Access to Your Data
+
+Community Shield Network (CSN), BLACKGRID, and the developer do **not** have access to your local data.
+
+We cannot:
+
+* View your applications.
+* Read your answers.
+* Access your database.
+* Monitor your emails.
+* Access your device remotely.
+
+### ☁️ Optional Cloud Sync
+
+Cloud sync is optional. If enabled, data is stored in services you configure and control.
+
+### 📄 Full Transparency
+
+The source code is publicly available and can be audited by anyone.
+
+### 🛡️ Privacy Summary
+
+StaffForge:
+
+* Does not sell your data.
+* Does not secretly upload your information.
+* Does not auto-submit applications.
+* Keeps you in full control.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Is StaffForge free?
+
+Yes. StaffForge is completely free.
+
+### Does StaffForge submit applications automatically?
+
+No. All submissions require manual review and action by the user.
+
+### Can the developers see my data?
+
+No. By default, your data remains stored locally on your device.
+
+### Is cloud sync required?
+
+No. Cloud sync is entirely optional.
+
+### Is StaffForge affiliated with Mojang or Microsoft?
+
+No.
+
+### Can I use StaffForge for any Minecraft server?
+
+Yes.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+You can help by:
+
+* Reporting bugs
+* Suggesting features
+* Improving documentation
+* Submitting pull requests
+* Translating the application
+
+---
+
+## 🐛 Bug Reports
+
+Found a bug?
+
+Open an issue:
+[https://github.com/tyl-droid/STAFFFORGE/issues](https://github.com/tyl-droid/STAFFFORGE/issues)
+
+---
+
+## 💡 Feature Requests
+
+Have an idea?
+
+Submit feature requests through GitHub Issues.
+
+---
+
+## 🔄 Updates
+
+Updates are distributed free of charge through official GitHub releases.
+
+Never pay for updates.
+
+---
+
+## ⭐ Support the Project
+
+If StaffForge helps you, consider:
+
+* ⭐ Starring the GitHub repository
+* 🐛 Reporting bugs
+* 💡 Suggesting new features
+* 🤝 Contributing code or documentation
+* 📢 Sharing the project
+* 📺 Subscribing to the YouTube channel
+
+---
+
+## 💖 Support Development
+
+StaffForge is developed and maintained independently by Tyler Jeffries under Community Shield Network (CSN) and BLACKGRID.
+
+If you'd like to support future development, you can make a voluntary donation.
+
+### Important Notes
+
+* Donations are entirely optional.
+* StaffForge will always remain free.
+* Donations do not unlock premium features.
+* Donations do not provide priority support.
+
+### Official Donation Link
+
+☕ Ko-fi: [https://ko-fi.com/communityshieldofficial](https://ko-fi.com/communityshieldofficial)
+
+Only donate using links listed in this README or on the official GitHub repository.
+
+---
+
+## 📜 Changelog
+
+See `CHANGELOG.md` for release notes and update history.
+
+---
+
+## ⚖️ Responsible Use
+
+StaffForge is intended to help users prepare honest and authentic applications.
+
+Users should:
+
+* Provide truthful information.
+* Respect server rules.
+* Avoid plagiarism.
+* Use AI-generated suggestions responsibly.
+
+---
+
+## 🗺️ Roadmap
+
+* [ ] Application Templates Marketplace
+* [ ] Advanced Analytics Dashboard
+* [ ] AI Interview Simulator
+* [ ] Discord Integration
+* [ ] Mobile Companion App
+* [ ] Multi-language Support
+* [ ] Team Collaboration Features
+* [ ] Achievement Tracking
+
+---
+
+## 👤 Author
+
+**Tyler Jeffries**
+aka **Nexi / Nexi_CSN**
+
+Founder of:
+
+* Community Shield Network (CSN)
+* BLACKGRID
+
+### Official Contact
+
+* Email: [CommunityShieldOfficial@gmail.com](mailto:CommunityShieldOfficial@gmail.com)
+* GitHub: [https://github.com/tyl-droid](https://github.com/tyl-droid)
+* YouTube: [https://www.youtube.com/@CommunityShieldOfficial](https://www.youtube.com/@CommunityShieldOfficial)
+* Ko-fi: [https://ko-fi.com/communityshieldofficial](https://ko-fi.com/communityshieldofficial)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⚠️ Disclaimer
+
+StaffForge is an independent productivity tool and is not affiliated with:
+
+* Mojang Studios
+* Microsoft
+* Hypixel
+* CubeCraft
+* Lifesteal
+* Any Minecraft server network
+
+All trademarks are the property of their respective owners.
+
+---
+
+## © Copyright
+
+© 2026 Tyler Jeffries (Nexi / Nexi_CSN)
+Community Shield Network (CSN) / BLACKGRID
+
+All rights reserved.
+
+Unauthorized commercial resale of official StaffForge releases is prohibited without written permission from the author.
+
+```
+```
