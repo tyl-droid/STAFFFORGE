@@ -1,9 +1,21 @@
----
+﻿---
 name: Feature Request
-about: Suggest a new feature
+about: Suggest a StaffForge feature
 title: "[FEATURE] "
 labels: enhancement
 ---
 
-## Description
-Describe your idea.
+## Feature Summary
+Describe the feature.
+
+## Problem It Solves
+What problem would this solve?
+
+## Proposed Solution
+How should it work?
+
+## Alternatives Considered
+Any alternative ideas?
+
+## Additional Context
+Add screenshots, examples, or notes.
