@@ -1,4 +1,3 @@
-````markdown
 # 🛡️ StaffForge
 
 > **The Ultimate Minecraft Staff Application Command Center**
@@ -16,22 +15,52 @@ Built for aspiring **Helpers**, **Moderators**, **Administrators**, and **Commun
 
 ---
 
+## 📸 Screenshots
+
+> Screenshots and demo GIFs coming soon.
+
+---
+
+## 🎥 Demo
+
+Watch development updates and feature showcases on YouTube:
+
+* [https://www.youtube.com/@CommunityShieldOfficial](https://www.youtube.com/@CommunityShieldOfficial)
+
+---
+
 ## 🚀 Mission Statement
 
 Applying for Minecraft staff positions can be repetitive, time-consuming, and difficult to organize.
 
 StaffForge was created to solve that problem by providing a centralized platform to:
 
-- Build professional staff applications.
-- Reuse and improve previous answers.
-- Track applications across multiple servers.
-- Prepare for interviews.
-- Monitor emails and deadlines.
-- Generate moderation CVs and résumés.
-- Analyze acceptance trends.
-- Stay organized throughout the application process.
+* Build professional staff applications.
+* Reuse and improve previous answers.
+* Track applications across multiple servers.
+* Prepare for interviews.
+* Monitor emails and deadlines.
+* Generate moderation CVs and résumés.
+* Analyze acceptance trends.
+* Stay organized throughout the application process.
 
 StaffForge is designed to save time while ensuring users remain fully responsible for every application they submit.
+
+---
+
+## 🏆 Why StaffForge?
+
+Unlike generic note-taking apps, spreadsheets, or AI chat tools, StaffForge is purpose-built specifically for Minecraft staff applications.
+
+It provides:
+
+* Structured application management.
+* Server-specific answer tracking.
+* Interview preparation.
+* Analytics and performance insights.
+* Privacy-first local data storage.
+* Optional cloud sync.
+* Professional desktop experience.
 
 ---
 
@@ -39,156 +68,133 @@ StaffForge is designed to save time while ensuring users remain fully responsibl
 
 ### 📝 Application Management
 
-- Create and manage unlimited staff applications.
-- Build reusable profiles.
-- Store moderation experience and achievements.
-- Track statuses and deadlines.
-- Organize notes and attachments.
+* Create and manage unlimited staff applications.
+* Build reusable profiles.
+* Store moderation experience and achievements.
+* Track statuses and deadlines.
+* Organize notes and attachments.
 
 #### Supported Statuses
 
-- Draft
-- Submitted
-- Pending
-- Interview Scheduled
-- Accepted
-- Denied
-- Withdrawn
-
----
+* Draft
+* Submitted
+* Pending
+* Interview Scheduled
+* Accepted
+* Denied
+* Withdrawn
 
 ### 🤖 AI-Assisted Answer Generation
 
 Generate personalized responses for common questions such as:
 
-- Why do you want to join our staff team?
-- How would you handle a rule breaker?
-- Describe your moderation experience.
-- What makes you stand out from other applicants?
+* Why do you want to join our staff team?
+* How would you handle a rule breaker?
+* Describe your moderation experience.
+* What makes you stand out from other applicants?
 
 Features include:
 
-- Tailored responses based on your experience.
-- Grammar and spelling improvements.
-- Tone adjustments.
-- Concise or detailed formats.
-
----
+* Tailored responses based on your experience.
+* Grammar and spelling improvements.
+* Tone adjustments.
+* Concise or detailed formats.
 
 ### ⚡ Automation Tools
 
-- Universal browser autofill.
-- Question-to-answer mapping.
-- Profile switching.
-- Smart form recognition.
+* Universal browser autofill.
+* Question-to-answer mapping.
+* Profile switching.
+* Smart form recognition.
 
 > **Important:** StaffForge never submits applications automatically.
-
----
 
 ### 📊 Analytics Dashboard
 
 Track:
 
-- Acceptance rate.
-- Interview rate.
-- Average response time.
-- Server-specific success rates.
-- Historical trends.
-
----
+* Acceptance rate.
+* Interview rate.
+* Average response time.
+* Server-specific success rates.
+* Historical trends.
 
 ### 🎤 Interview Preparation Suite
 
-- Common moderation questions.
-- Situational scenarios.
-- Suggested talking points.
-- Confidence-building tools.
-- AI interview simulator (planned).
-
----
+* Common moderation questions.
+* Situational scenarios.
+* Suggested talking points.
+* Confidence-building tools.
+* AI interview simulator (planned).
 
 ### 📄 Moderation Résumé Builder
 
-Generate professional moderation CVs with export support.
-
-Sections include:
-
-- Experience
-- Skills
-- Achievements
-- References
-- Availability
-
----
+Generate professional moderation CVs.
 
 ### 📧 Gmail Integration
 
 Automatically detect:
 
-- Interview invitations.
-- Acceptance emails.
-- Denials.
-- Follow-up requests.
-
----
+* Interview invitations.
+* Acceptance emails.
+* Denials.
+* Follow-up requests.
 
 ### 📅 Google Calendar Integration
 
 Create reminders for:
 
-- Interviews
-- Deadlines
-- Follow-ups
-
----
+* Interviews
+* Deadlines
+* Follow-ups
 
 ### ☁️ Optional Cloud Sync
 
 Sync profiles, applications, and settings securely using Supabase.
 
----
-
 ### 🖥️ Desktop Application
 
-- Electron-based desktop app.
-- Native Windows installer.
-- Auto-updater.
-- Offline support.
-
----
+* Electron-based desktop app.
+* Native Windows installer.
+* Auto-updater.
+* Offline support.
 
 ### 🔐 Security & Privacy
 
-- JWT authentication.
-- Secure local storage.
-- Multi-user accounts.
-- Privacy-first architecture.
+* JWT authentication.
+* Secure local storage.
+* Multi-user accounts.
+* Privacy-first architecture.
 
 ---
 
 ## 🧰 Technology Stack
 
 ### Frontend
-- React
-- Vite
-- Tailwind CSS
+
+* React
+* Vite
+* Tailwind CSS
 
 ### Backend
-- Node.js
-- Express
+
+* Node.js
+* Express
 
 ### Databases
-- SQLite (local)
-- Supabase (optional cloud sync)
+
+* SQLite (local)
+* Supabase (optional cloud sync)
 
 ### Desktop
-- Electron
-- Electron Builder
+
+* Electron
+* Electron Builder
 
 ### Integrations
-- Gmail API
-- Google Calendar API
+
+* Gmail API
+* Google Calendar API
 
 ---
 
@@ -196,16 +202,16 @@ Sync profiles, applications, and settings securely using Supabase.
 
 ### Minimum Requirements
 
-- Windows 10 or Windows 11
-- 4 GB RAM
-- 500 MB free disk space
-- Internet connection for optional integrations
+* Windows 10 or Windows 11
+* 4 GB RAM
+* 500 MB free disk space
+* Internet connection for optional integrations
 
 ### Recommended
 
-- 8 GB RAM or more
-- Modern Chromium-based browser
-- Stable internet connection
+* 8 GB RAM or more
+* SSD storage
+* Stable internet connection
 
 ---
 
@@ -216,7 +222,7 @@ Sync profiles, applications, and settings securely using Supabase.
 ```bash
 git clone https://github.com/tyl-droid/STAFFFORGE.git
 cd STAFFFORGE
-````
+```
 
 ### Install Dependencies
 
@@ -258,6 +264,8 @@ STAFFFORGE/
 ├── assets/        # Icons and branding assets
 ├── dist/          # Generated installers
 ├── CHANGELOG.md
+├── CONTRIBUTING.md
+├── SECURITY.md
 ├── LICENSE
 └── README.md
 ```
@@ -291,9 +299,9 @@ StaffForge is designed to assist users while preserving authenticity and full us
 
 ---
 
-# ⚠️ Official Distribution, Security & Anti-Scam Notice
+## ⚠️ Official Distribution, Security & Anti-Scam Notice
 
-## 🆓 StaffForge is 100% Free
+### 🆓 StaffForge is 100% Free
 
 StaffForge is provided free of charge by:
 
@@ -311,37 +319,11 @@ There are:
 
 If anyone asks you to pay for StaffForge, they are not authorized.
 
----
-
-## 🚫 Unauthorized Selling Prohibited
-
-No person or organization is permitted to:
-
-* Sell StaffForge.
-* Charge for access.
-* Rebrand it as an official release.
-* Claim ownership.
-* Bundle it with malicious software.
-* Offer fake support contracts.
+### 🚫 Unauthorized Selling Prohibited
 
 Unauthorized commercial resale of official StaffForge releases is prohibited without written permission from the author.
 
----
-
-## 🚨 Common Scam Tactics
-
-Scammers may attempt to:
-
-* Offer a "Pro" or "VIP" version.
-* Sell fake license keys.
-* Claim they are the original developer.
-* Provide malware-infected installers.
-* Use fake websites or Discord servers.
-* Impersonate CSN or BLACKGRID.
-
----
-
-## 🌐 Official Sources
+### 🌐 Official Sources
 
 Only download StaffForge from official sources:
 
@@ -349,36 +331,11 @@ Only download StaffForge from official sources:
 * YouTube: [https://www.youtube.com/@CommunityShieldOfficial](https://www.youtube.com/@CommunityShieldOfficial)
 * Ko-fi: [https://ko-fi.com/communityshieldofficial](https://ko-fi.com/communityshieldofficial)
 
-If you downloaded StaffForge from any other source, verify its legitimacy before running it.
+### 📧 Report Unauthorized Sales
 
----
+If anyone attempts to sell StaffForge, contact:
 
-## 🔐 Security Recommendations
-
-To protect yourself:
-
-* Use a reputable VPN if desired.
-* Scan files with Microsoft Defender, Malwarebytes, or VirusTotal.
-* Verify file checksums if published.
-* Keep your system updated.
-* Avoid modified or unofficial builds.
-
----
-
-## 📧 Report Unauthorized Sales or Fake Versions
-
-If anyone attempts to sell StaffForge or distribute suspicious versions, contact:
-
-**[CommunityShieldOfficial@gmail.com](mailto:CommunityShieldOfficial@gmail.com)**
-
-Include:
-
-* Screenshots
-* Usernames
-* Marketplace links
-* Payment details
-* Download links
-* Any additional evidence
+* [CommunityShieldOfficial@gmail.com](mailto:CommunityShieldOfficial@gmail.com)
 
 ---
 
@@ -389,7 +346,7 @@ Include:
 3. Scan your device for malware.
 4. Change passwords if you ran suspicious files.
 5. Contact your bank or payment provider.
-6. Report the incident to your local cybercrime authority.
+6. Report the incident to your national cybercrime authority.
 7. Email us with all evidence.
 
 ### 🇬🇧 United Kingdom
@@ -408,17 +365,7 @@ Include:
 
 ### 🔒 Your Data Stays on Your Device
 
-By default, all application data is stored locally.
-
-This includes:
-
-* Profiles
-* Application answers
-* Notes
-* Analytics
-* Settings
-* Email parsing results
-* Calendar reminders
+By default, all application data is stored locally on your own device.
 
 ### ❌ We Do Not Have Access to Your Data
 
@@ -427,31 +374,22 @@ Community Shield Network (CSN), BLACKGRID, and the developer do **not** have acc
 We cannot:
 
 * View your applications.
-* Read your answers.
+* Read your saved answers.
 * Access your database.
 * Monitor your emails.
 * Access your device remotely.
 
 ### ☁️ Optional Cloud Sync
 
-Cloud sync is optional. If enabled, data is stored in services you configure and control.
+Cloud sync is optional and only uses services you explicitly configure.
 
 ### 📄 Full Transparency
 
-The source code is publicly available and can be audited by anyone.
-
-### 🛡️ Privacy Summary
-
-StaffForge:
-
-* Does not sell your data.
-* Does not secretly upload your information.
-* Does not auto-submit applications.
-* Keeps you in full control.
+The source code is publicly available for review and auditing.
 
 ---
 
-## ❓ Frequently Asked Questions
+## ❓ Frequently Asked Questions (FAQ)
 
 ### Is StaffForge free?
 
@@ -498,7 +436,8 @@ You can help by:
 Found a bug?
 
 Open an issue:
-[https://github.com/tyl-droid/STAFFFORGE/issues](https://github.com/tyl-droid/STAFFFORGE/issues)
+
+* [https://github.com/tyl-droid/STAFFFORGE/issues](https://github.com/tyl-droid/STAFFFORGE/issues)
 
 ---
 
@@ -506,7 +445,7 @@ Open an issue:
 
 Have an idea?
 
-Submit feature requests through GitHub Issues.
+Submit feature requests via GitHub Issues.
 
 ---
 
@@ -546,7 +485,7 @@ If you'd like to support future development, you can make a voluntary donation.
 
 ### Official Donation Link
 
-☕ Ko-fi: [https://ko-fi.com/communityshieldofficial](https://ko-fi.com/communityshieldofficial)
+* ☕ Ko-fi: [https://ko-fi.com/communityshieldofficial](https://ko-fi.com/communityshieldofficial)
 
 Only donate using links listed in this README or on the official GitHub repository.
 
@@ -581,6 +520,12 @@ Users should:
 * [ ] Multi-language Support
 * [ ] Team Collaboration Features
 * [ ] Achievement Tracking
+
+---
+
+## 🙏 Acknowledgements
+
+Thanks to the open-source community and everyone who supports Community Shield Network (CSN) and BLACKGRID.
 
 ---
 
@@ -632,6 +577,3 @@ Community Shield Network (CSN) / BLACKGRID
 All rights reserved.
 
 Unauthorized commercial resale of official StaffForge releases is prohibited without written permission from the author.
-
-```
-```
