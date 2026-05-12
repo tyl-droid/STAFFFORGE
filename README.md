@@ -1,3 +1,9 @@
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
+![Status](https://img.shields.io/badge/status-Active-success)
+![Privacy](https://img.shields.io/badge/privacy-Local%20First-orange)
+
 # 🛡️ StaffForge
 
 > **The Ultimate Minecraft Staff Application Command Center**
@@ -275,6 +281,24 @@ STAFFFORGE/
 
 ---
 
+## 🛠️ System Requirements
+
+### Minimum Requirements
+
+* Windows 10 or Windows 11
+* 4 GB RAM
+* 500 MB free disk space
+* Internet connection for Gmail, Calendar, and cloud integrations
+
+### Recommended Requirements
+
+* Windows 11
+* 8 GB RAM or more
+* SSD storage
+* Stable broadband connection
+
+---
+
 ## 🎯 Use Cases
 
 StaffForge is ideal for:
@@ -515,6 +539,118 @@ StaffForge:
 * Encourages transparent and ethical software practices.
 
 Your data belongs to you and remains under your control.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+### Is StaffForge free?
+
+Yes. StaffForge is completely free to download and use.
+
+### Does StaffForge submit applications automatically?
+
+No. All submissions require manual review and action by the user.
+
+### Can the developers see my data?
+
+No. By default, your data remains stored locally on your device.
+
+### Is cloud sync required?
+
+No. Cloud sync is entirely optional.
+
+### Is StaffForge affiliated with Mojang or Microsoft?
+
+No.
+
+### Can I use StaffForge for any Minecraft server?
+
+Yes.
+
+### Do I need to create an account?
+
+No. Local-only use does not require an online account.
+
+### Can I inspect the source code?
+
+Yes. The full source code is publicly available on GitHub.
+
+---
+
+## ⚖️ Responsible Use
+
+StaffForge is intended to help users prepare honest, authentic, and well-structured staff applications.
+
+Users should:
+
+* Provide truthful information.
+* Respect server rules and application requirements.
+* Avoid plagiarism.
+* Review AI-generated content before using it.
+* Ensure all submitted responses accurately reflect their own experience.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+You can help by:
+
+* Reporting bugs.
+* Suggesting features.
+* Improving documentation.
+* Submitting pull requests.
+* Translating the application.
+* Testing new releases.
+
+---
+
+## 🐛 Bug Reports
+
+Found a bug?
+
+Please open an issue on GitHub:
+
+[https://github.com/tyl-droid/STAFFFORGE/issues](https://github.com/tyl-droid/STAFFFORGE/issues)
+
+---
+
+## 💡 Feature Requests
+
+Have an idea for StaffForge?
+
+Submit feature requests through GitHub Issues.
+
+---
+
+## 🔄 Update Policy
+
+Updates are distributed free of charge through official GitHub releases.
+
+* Never pay for updates.
+* Never download updates from unofficial websites.
+* Verify release notes before installing.
+
+---
+
+## ⭐ Support the Project
+
+If StaffForge helps you, consider:
+
+* ⭐ Starring the GitHub repository.
+* 📺 Subscribing to the YouTube channel.
+* 🐛 Reporting bugs.
+* 💡 Suggesting new features.
+* 🤝 Contributing to the codebase.
+* 📢 Sharing the project with others.
+
+---
+
+## 📜 Changelog
+
+See `CHANGELOG.md` for release notes, update history, and version changes.
 
 ---
 
