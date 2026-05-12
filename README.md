@@ -529,6 +529,150 @@ Thanks to the open-source community and everyone who supports Community Shield N
 
 ---
 
+## 🔐 Security Policy
+
+Please see [SECURITY.md](SECURITY.md) for:
+
+* Supported versions
+* Vulnerability reporting procedures
+* Security best practices
+* Responsible disclosure guidelines
+
+---
+
+## 🤝 Code of Conduct
+
+This project follows a respectful and inclusive community standard.
+
+Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+---
+
+## 🏗️ Architecture Overview
+
+StaffForge consists of three core layers:
+
+1. **Frontend (React + Vite)**
+   Provides the user dashboard and interface.
+
+2. **Backend (Node.js + Express)**
+   Handles APIs, authentication, integrations, and data management.
+
+3. **Desktop Wrapper (Electron)**
+   Packages the platform as a native desktop application.
+
+---
+
+## 🧠 Design Philosophy
+
+StaffForge is built around five principles:
+
+1. Privacy First
+2. User Control
+3. Transparency
+4. Authenticity
+5. Productivity
+
+---
+
+## 📡 Telemetry Policy
+
+StaffForge does not include hidden analytics, spyware, or invasive tracking.
+
+Any future telemetry will be:
+
+* Opt-in only
+* Fully documented
+* Easy to disable
+* Clearly disclosed
+
+---
+
+## 💾 Backup & Export
+
+Users are encouraged to create regular backups of their data.
+
+Recommended practices:
+
+* Export data frequently.
+* Store backups securely.
+* Encrypt backups containing personal information.
+* Keep multiple copies in different locations.
+
+---
+
+## 🧪 Testing
+
+Run the test suite:
+
+```bash
+npm test
+```
+
+Run linting:
+
+```bash
+npm run lint
+```
+
+---
+
+## 🔎 Verifying Releases
+
+Always download releases from the official GitHub repository.
+
+Before running installers:
+
+1. Compare SHA256 hashes if published.
+2. Scan files using VirusTotal.
+3. Verify release notes.
+4. Ensure the release came from an official source.
+
+---
+
+## 🎯 Long-Term Vision
+
+StaffForge aims to become the definitive productivity platform for:
+
+* Minecraft staff applications
+* Community moderation careers
+* Interview preparation
+* Moderation résumé building
+* Performance analytics
+
+---
+
+## 🌍 Worldwide Availability
+
+StaffForge can be used by Minecraft players worldwide and supports applications to any server network.
+
+---
+
+## 🌐 Community & Updates
+
+Stay connected through:
+
+* GitHub Releases
+* YouTube development updates
+* Ko-fi support page
+
+---
+
+## 🙏 Credits
+
+Built with amazing open-source technologies including:
+
+* React
+* Vite
+* Node.js
+* Express
+* Electron
+* SQLite
+* Supabase
+* Tailwind CSS
+
+---
+
 ## 👤 Author
 
 **Tyler Jeffries**
